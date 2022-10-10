@@ -20,7 +20,7 @@ body{
     height: 50vw;
     width: 50vw;
     background: url(clock.png) no-repeat;
-    background-size: 100%;
+    background-size: 98%;
 }
 #hour, #minute, #second{
     position: absolute;
